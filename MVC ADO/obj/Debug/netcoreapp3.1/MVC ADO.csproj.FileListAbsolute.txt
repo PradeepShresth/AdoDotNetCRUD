@@ -1,0 +1,47 @@
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.exe
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.deps.json
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.runtimeconfig.json
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.runtimeconfig.dev.json
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.pdb
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.Views.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\MVC ADO.Views.pdb
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.csprojAssemblyReference.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.AssemblyInfoInputs.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.AssemblyInfo.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.RazorAssemblyInfo.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.RazorAssemblyInfo.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\staticwebassets\MVC ADO.StaticWebAssets.Manifest.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\staticwebassets\MVC ADO.StaticWebAssets.xml
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVC ADO.styles.css
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.TagHelpers.input.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.TagHelpers.output.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.RazorCoreGenerate.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.RazorTargetAssemblyInfo.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.RazorTargetAssemblyInfo.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.Views.pdb
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.csproj.CopyComplete
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.dll
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.pdb
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\MVC ADO.genruntimeconfig.cache
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Pradeep Shrestha\source\repos\MVC ADO\MVC ADO\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
